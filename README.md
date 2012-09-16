@@ -1,4 +1,4 @@
 Sisplan
 =======
 
-sistema plano de aula
+sistema gerador plano de aula 
